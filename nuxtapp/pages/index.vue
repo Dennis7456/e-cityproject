@@ -1,5 +1,5 @@
 <template>
-<div class="container">
+<div class="">
   <Logo/>
 <div class="links">
   <nuxt-link
